@@ -3,4 +3,15 @@
 GET {{MinimalApi_HostAddress}}/weatherforecast/
 Accept: application/json
 
+
 ###
+
+
+GET {{MinimalApi_HostAddress}}/books
+Accept: application/json
+
+
+###
+
+GET {{MinimalApi_HostAddress}}/books/2
+Accept: application/json
